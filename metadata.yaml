@@ -1,0 +1,42 @@
+_repo: Old-Boston-Taverns-and-Tavern-Clubs_42999
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Thwing, Annie Haven
+    alias: Thwing, Annie H.
+    birthdate: 1851
+    gutenberg_agent_id: '45874'
+    url: http://www.gutenberg.org/2009/agents/45874
+  - agent_name: Watkins, Walter Kendall
+    alias: Watkins, Walter K. (Walter Kendall)
+    birthdate: 1855
+    deathdate: 1934
+    gutenberg_agent_id: '41977'
+    url: http://www.gutenberg.org/2009/agents/41977
+covers:
+- cover_type: archival
+  image_path: 42999-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Drake, Samuel Adams
+    alias: Drake, Samuel A.
+    birthdate: 1833
+    deathdate: 1905
+    gutenberg_agent_id: '26710'
+    url: http://www.gutenberg.org/2009/agents/26710
+description: ''
+gutenberg_issued: '2013-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42999'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boston (Mass.) -- Social life and customs'
+- !lcc 'F001'
+- !lcsh 'Taverns (Inns) -- Massachusetts -- Boston'
+- !lcsh 'Clubs -- Massachusetts -- Boston'
+title: Old Boston Taverns and Tavern Clubs
+url: http://www.gutenberg.org/ebooks/42999
