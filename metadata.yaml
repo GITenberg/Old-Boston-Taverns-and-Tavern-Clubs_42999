@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '26710'
     url: http://www.gutenberg.org/2009/agents/26710
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42999#Old-Boston-Taverns-and-Tavern-Clubs
 gutenberg_issued: '2013-06-20'
 gutenberg_type: Text
 identifiers:
